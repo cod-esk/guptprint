@@ -1,0 +1,9 @@
+{
+  "cloudBaseUrl": "https://your-guptprint.vercel.app",
+  "shopId": "demo",
+  "agentId": "sharma-counter-1",
+  "printer": "YOUR_CUPS_PRINTER_NAME",
+  "pollIntervalMs": 2500,
+  "agentKey": "",
+  "dataDir": "./data"
+}
