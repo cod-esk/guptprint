@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env*
+*.log
+*.tsbuildinfo
+.npm
+.config
+printer-agent/config.json
+printer-agent/data/*.pdf
+.DS_Store
